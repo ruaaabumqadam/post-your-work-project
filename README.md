@@ -9,3 +9,14 @@ The program allows users to filter data by city, month, and day, then provides u
 - Shows most popular stations
 - Calculates trip duration statistics
 - Provides user statistics
+
+## 🚀 How to Run the Project
+
+### Requirements:
+- Python 3 installed
+- pandas library installed
+
+Install pandas:
+```bash
+pip install pandas
+
