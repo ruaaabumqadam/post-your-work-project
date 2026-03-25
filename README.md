@@ -20,3 +20,15 @@ Install pandas:
 ```bash
 pip install pandas
 
+## ⚠️ Notes
+- CSV data files are not included in the repository (ignored using .gitignore)
+- Make sure the data files are in the same directory as the script
+
+## 🤝 Contribution
+This is a Udacity project. Contributions are not required but suggestions are welcome.
+
+## 📅 Date Created
+March 2026
+
+## 👩‍💻 Author
+Rawan Gedeon
